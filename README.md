@@ -11,7 +11,7 @@
 
 | 🔴 [**CyberApex**](https://github.com/Linz0ne/CyberApex) | 🛡️ [**CyberSpectra**](https://github.com/Linz0ne/CyberSpectra) |
 |:---|:---|
-| Advanced Red Team Toolkit | AI-Powered Fingerprint Agent |
+| Advanced Red Team Toolkit — 漏洞利用框架、Payload 生成、后渗透工具集 | AI-Powered Fingerprint Agent — 多维度 Web 指纹识别、智能后端枚举、漏洞初筛 |
 | ![](https://img.shields.io/github/stars/Linz0ne/CyberApex?style=social) ![](https://img.shields.io/github/forks/Linz0ne/CyberApex?style=social) ![](https://img.shields.io/github/languages/top/Linz0ne/CyberApex) | ![](https://img.shields.io/github/stars/Linz0ne/CyberSpectra?style=social) ![](https://img.shields.io/github/forks/Linz0ne/CyberSpectra?style=social) ![](https://img.shields.io/github/languages/top/Linz0ne/CyberSpectra) |
 
 ---
