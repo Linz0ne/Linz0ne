@@ -18,7 +18,7 @@
 
 ### ⚡ Tech
 
-`Python` `Go` `Java` `Bash` `JavaScript` `Docker` `Kubernetes` `Linux` `Git` `BurpSuite` `Yakit` `Nuclei`
+`Python` `Go` `Java` `Bash` `JavaScript` `Docker` `Kubernetes` `Linux` `Git` `Kimi` `DeepSeek` `Claude`
 
 ---
 
